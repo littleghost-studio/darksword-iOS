@@ -1,3 +1,6 @@
+DOCUMENTATION AND EDUCATIONAL PURPOSES ONLY
+
+
 DARKSWORD iOS 18 ANALYSIS
 
 Dump of everything I could find for darkword iOS 18 exploit. 
